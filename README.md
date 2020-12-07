@@ -1,1 +1,1 @@
-# markov_chain
+# MCMC(markov chain monte carlo) sampling
